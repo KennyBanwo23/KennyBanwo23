@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kehinde Ogunbanwo
 - 👀 I’m interested in Data Science and Data Analysis.
-- 🌱 I’m currently learning Web design and Python programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email- ogunbanwokehinde456@gmail.com
 
