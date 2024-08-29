@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kehinde Ogunbanwo
-- 👀 I’m interested in Data Science and Data Analysis.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science, Data Analysis and Generative AI.
+- 💞️ I’m looking to collaborate on Machine Learning and Generative AI projects.
 - 📫 How to reach me email- ogunbanwokehinde456@gmail.com
 
 <!---
